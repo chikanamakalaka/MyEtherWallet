@@ -1,3 +1,7 @@
+### fix
+
+* * fix failed to fetch and wrong prev session [#3525](https://github.com/MyEtherWallet/MyEtherWallet/pull/3525)
+
 ### Release v6.3.0
 
 ### devop
