@@ -3,6 +3,8 @@ module.exports = [
   'wss://localhost:8080',
   'https://swap.mewapi.io:443',
   'wss://nodes.mewapi.io:443',
+  'http://valoriumcoin.com:8545',
+  'wss://valoriumcoin.com:8545',
   'https://nodes.mewapi.io:443',
   'wss://api.thegraph.com/subgraphs/name/aave/',
   'https://api.thegraph.com:443/subgraphs/name/aave/',
