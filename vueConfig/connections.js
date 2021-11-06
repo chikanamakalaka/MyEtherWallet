@@ -17,6 +17,8 @@ module.exports = [
   'https://api.esn.gonspool.com:443',
   'https://www.ethercluster.com:443',
   'wss://www.ethercluster.com:443',
+  'http://valoriumcoin.com:5845',
+  'wss://valoriumcoin.com:5846',
   'https://api.etherscan.io:443',
   'https://mainnet.infura.io:443',
   'wss://mainnet.infura.io:443',
